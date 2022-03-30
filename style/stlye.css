@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  font-family: 'Courgette', cursive;
+  /*font-family: 'Ubuntu', sans-serif;*/
+  background: #f5f3f5;
+}
+/*# sourceMappingURL=stlye.css.map */
